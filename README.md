@@ -52,9 +52,13 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/e586cd9f-ff4e-48ab-9bc5-55c301c6d1f0)
+
  
 comm file1 file2
  ## OUTPUT
+ ![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/b991edda-9320-4e4a-a076-02044dc8b72a)
+
 
  
 diff file1 file2
