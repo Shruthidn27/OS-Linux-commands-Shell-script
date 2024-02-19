@@ -63,6 +63,7 @@ comm file1 file2
  
 diff file1 file2
 ## OUTPUT
+j![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/00417713-8350-496c-a1c6-c35aa7b60263)
 
 
 #Filters
