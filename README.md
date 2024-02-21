@@ -87,12 +87,15 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/a205bb2f-55d4-42c9-a59b-9f87d995c8e4)
 
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/cf161b3a-0bb9-498c-bb9f-f0a7718e0e2b)
+
 
 
 
