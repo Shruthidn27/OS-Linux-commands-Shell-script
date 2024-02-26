@@ -115,11 +115,13 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/aa97bc27-5015-4275-8e3a-54d481fd5135)
 
 
 
 grep hello newfile 
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/e05a9cc9-ec9e-4c8d-aba2-051c24ccec20)
 
 
 
@@ -131,7 +133,6 @@ grep -v hello newfile
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-
 
 
 
