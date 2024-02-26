@@ -128,16 +128,20 @@ grep hello newfile
 
 grep -v hello newfile 
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/fb2331b1-6e2d-4df2-9bfb-1828883e86fe)
 
 
 
 cat newfile | grep -i "hello"
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/8f8ff770-eeeb-4390-af24-25b7011bd59e)
 
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
+![image](https://github.com/Shruthidn27/OS-Linux-commands-Shell-script/assets/138849783/df3b4080-f28d-4c61-bd2e-e9ff73cd0434)
+
 
 
 
